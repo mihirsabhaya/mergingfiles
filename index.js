@@ -1,2 +1,4 @@
-var data = 'hello'
+var data = 'hello1'
+
+
 console.log(data);
