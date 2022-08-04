@@ -1,2 +1,2 @@
 var data = 'hello'
-console.log(data);
+console.log(data)
