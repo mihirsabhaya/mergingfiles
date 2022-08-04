@@ -4,6 +4,7 @@ console.log(data);
 var var2 = "variable 2"
 
 
+
 var data = 'hello'
 console.log(data)
 
