@@ -1,0 +1,10 @@
+# comment
+
+# ignore all types of one file
+*.docx
+
+# ignore a single file
+git command.txt
+
+# igonre diretory
+/new folder/

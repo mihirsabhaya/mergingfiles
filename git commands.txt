@@ -1,0 +1,9 @@
+git clone 'git repo path' :- clone reposatory in local machine.
+git add . :- track all files fo reposatory.
+git commit -m 'message' :- commit files
+
+git checkout 'commit code' :- roll back to that commit
+git checkout -b 'branchname' :- create a branch
+git branch :- shows all  branches of repo
+
+git push :- push files to the server
